@@ -1,0 +1,6 @@
+# 7200ScalaBDF
+Facial Recognition
+By Zepeng Zhang, Kaiwen Dai
+
+Facial Recognition is one of the topic that both of us are really interested in. It is a hot topic and we would like to explore it in this class. Because we need massive data for this project, we have to find someone who has lots of available images on the internet. Therefore, we need some pretty well-known celebrities for our dataset. Our basic plan is inspired by cats and dogs recognition. Our steps are classification, training and then recognize. Classification: we will classify images as belonging to one of several classes. Because an image is a matrix of pixels, we could represent it as numerical vector which has features of that image and label it as one of the classes. Then, we can train it through some learning algorithms. Finally, it will recognize the image. 
+
