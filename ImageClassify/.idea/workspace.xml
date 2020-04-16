@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1a909a1-f745-4145-beb8-ff8c2312e88a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aZ53Z5wbQCReVMjsNGLi4BJNn8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ImageProcess" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ImageProcess.ImageProcess" />
+      <module name="ImageClassify" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageProcess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImageProcess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../CSYE7200-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200-master2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200-master3" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200-master3/assignment-random-state" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1a909a1-f745-4145-beb8-ff8c2312e88a" name="Default Changelist" comment="" />
+      <created>1586930076297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586930076297</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="105" key="#Project_Structure" timestamp="1586930111760">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="320" y="105" key="#Project_Structure/0.23.1440.831@0.23.1440.831" timestamp="1586930111760" />
+    <state x="735" y="220" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586996547607">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="735" y="220" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.831@0.23.1440.831" timestamp="1586996547607" />
+  </component>
+</project>
